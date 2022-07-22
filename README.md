@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hooman (nicknamed Mr.Programmer)
 - 👀 I’m interested in AI and programming with Python
 - 🌱 I am currently at introductory level of ML and still learning it ((:
-- 💞️ I am looking to collaborate in groups that make me progress in machine learning
+- 💞️ I am looking to collaborate in groups that make me progress in ML
 - 📫 You can contact me through Instagram and LinkedIn
 - my Instagram Account : https://www.instagram.com/hooman_kaseban  
 - my LinkedIn Account : https://www.linkedin.com/in/hoomankaseban
